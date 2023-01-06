@@ -1,5 +1,11 @@
 # KafkaConsumerApplication
+Link to download :-
+https://kafka.apache.org/downloads
 
+Command to unzip :-
+Tar -xvzf C:\Youtube\kafka\kafka_2.13-3.2.0.tgz -C C:\Youtube\kafka
+
+Steps to be followed
 
 
 start zookeper :-C:\Youtube\kafka\bin\windows\zookeeper-server-start.bat C:\Youtube\kafka\kafka\config\zookeeper.properties
